@@ -6,7 +6,7 @@
 This is the official code for the implementation of "Invariant Graph Transformer for Out-of-Distribution Generalization"
 which is accepted by KDD 2026.
 
-[license-url]: https://github.com/Lowy999/GOODFormer/LICENSE
+[license-url]: https://github.com/Lowy999/GOODFormer/blob/master/LICENSE
 [license-image]:https://img.shields.io/badge/license-GPL3.0-green.svg
 
 
