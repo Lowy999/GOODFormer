@@ -3,7 +3,7 @@ storage
 graph_ood.egg-info
 docs/build
 /docs/source/_autosummary/
-**/__pycace__/
+**/__pycache__/
 /GOOD/kernel/auto_launch.py
 /GOOD/kernel/auto_chart.py
 /GOOD/kernel/auto_chart_final.py
