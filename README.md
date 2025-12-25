@@ -66,5 +66,5 @@ The GOODFormer codebase is licensed under **GPLv3**:
 
 ## Contact
 
-Please feel free to contact [Tianyin Liao](1120230329@mail.nankai.edu.cn)!
+Please feel free to contact [Tianyin Liao](mailto:1120230329@mail.nankai.edu.cn)!
 
