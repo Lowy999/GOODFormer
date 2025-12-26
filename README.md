@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.00304-b31b1b.svg)](https://arxiv.org/abs/2508.00304)
 [![License][license-image]][license-url]
-[![DOI](https://zenodo.org/badge/1121006924.svg)](https://doi.org/10.5281/zenodo.18055149)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18058301.svg)](https://doi.org/10.5281/zenodo.18058301)
 
 This is the official code for the implementation of "Invariant Graph Transformer for Out-of-Distribution Generalization"
 which is accepted by KDD 2026.
